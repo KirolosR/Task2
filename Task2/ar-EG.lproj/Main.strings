@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "  Country"; ObjectID = "975-qx-LJE"; */
+"975-qx-LJE.normalTitle" = "  Country";
+
+/* Class = "UIButton"; normalTitle = "  Area"; ObjectID = "CgA-hD-CrP"; */
+"CgA-hD-CrP.normalTitle" = "  Area";
+
+/* Class = "UIButton"; normalTitle = "Terms and Condition"; ObjectID = "DAl-2p-lAS"; */
+"DAl-2p-lAS.normalTitle" = "Terms and Condition";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "DPq-Nd-azM"; */
+"DPq-Nd-azM.normalTitle" = "Change Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IuB-ho-8uW"; */
+"IuB-ho-8uW.text" = "Label";
+
+/* Class = "UILabel"; text = "By clicking register you agree to"; ObjectID = "Ova-Hd-kIL"; */
+"Ova-Hd-kIL.text" = "By clicking register you agree to";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "P9g-6K-wAp"; */
+"P9g-6K-wAp.normalTitle" = "<<";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TPo-fK-9uV"; */
+"TPo-fK-9uV.text" = "Label";
+
+/* Class = "UITextField"; text = "12345"; ObjectID = "VeM-d3-Tzz"; */
+"VeM-d3-Tzz.text" = "12345";
+
+/* Class = "UILabel"; text = "REGISTER"; ObjectID = "YHA-8V-bGW"; */
+"YHA-8V-bGW.text" = "REGISTER";
+
+/* Class = "UITextField"; text = "Email"; ObjectID = "e2v-2v-bub"; */
+"e2v-2v-bub.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "  City"; ObjectID = "fV9-S2-2yx"; */
+"fV9-S2-2yx.normalTitle" = "  City";
+
+/* Class = "UIButton"; normalTitle = "  Code"; ObjectID = "j2W-tl-tbZ"; */
+"j2W-tl-tbZ.normalTitle" = "  Code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l3A-f2-yIf"; */
+"l3A-f2-yIf.text" = "Label";
+
+/* Class = "UITextField"; text = "Full Name"; ObjectID = "lFh-WE-kZ3"; */
+"lFh-WE-kZ3.text" = "Full Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "puF-AU-rbR"; */
+"puF-AU-rbR.text" = "Label";
+
+/* Class = "UITextField"; text = "Password"; ObjectID = "yp0-4X-sqV"; */
+"yp0-4X-sqV.text" = "Password";
